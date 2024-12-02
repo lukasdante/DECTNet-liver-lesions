@@ -361,7 +361,7 @@ if __name__ == "__main__":
     multi_classify_hyperparameters.batch_size = 2
     multi_classify_hyperparameters.epochs = 100
 
-    root_path = r"F:\2024_1_6_DECTNet_RevisedVersion\Weights"
+    root_path = r"Weights/"
     if not os.path.isdir(root_path):
         os.mkdir(root_path)
 
@@ -391,6 +391,3 @@ if __name__ == "__main__":
                            train_dataset=mms_train_dataset,
                            test_dataset=mms_test_dataset,
                            logger_name=CaTNet_mms_logger_name)
-
-
-

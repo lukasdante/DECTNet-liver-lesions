@@ -1,0 +1,17 @@
+final_loss:0.38773942, total_loss:0.47231644
+final_loss:0.37496552, total_loss:0.4554548
+final_loss:0.4012373, total_loss:0.48309475
+final_loss:0.3736002, total_loss:0.45025992
+final_loss:0.35371366, total_loss:0.42928618
+final_loss:0.40480408, total_loss:0.47807845
+final_loss:0.36014706, total_loss:0.43789315
+final_loss:0.36687016, total_loss:0.44186425
+final_loss:0.34129953, total_loss:0.41448835
+final_loss:0.3713828, total_loss:0.4504673
+final_loss:0.34761834, total_loss:0.42105
+final_loss:0.33563045, total_loss:0.4080906
+final_loss:0.33623195, total_loss:0.40804437
+final_loss:0.36564216, total_loss:0.4390479
+final_loss:0.34376442, total_loss:0.42027575
+final_loss:0.34168717, total_loss:0.41374803
+final_loss:0.34855726, total_loss:0.4216485

@@ -152,14 +152,14 @@ class MMsDataset(BaseDataset):
 
 
 MMs_train_config = ml_collections.ConfigDict()
-MMs_train_config.root_dir = r"F:\2024_1_6_DECTNet_RevisedVersion\Datasets\MMsDataset"
+MMs_train_config.root_dir = r"/home/louis/Desktop/dectnet/DECTNet-liver-lesions/Codes/MMs/FLLsDataset"
 MMs_train_config.mode = "train"
 MMs_train_config.data_augmentation=True
 MMs_train_config.image_shape = 224
 MMs_train_config.data_aug_prob = 0.3
 
 MMs_test_config = ml_collections.ConfigDict()
-MMs_test_config.root_dir = r"F:\2024_1_6_DECTNet_RevisedVersion\Datasets\MMsDataset"
+MMs_test_config.root_dir = r"/home/louis/Desktop/dectnet/DECTNet-liver-lesions/Codes/MMs/FLLsDataset"
 MMs_test_config.mode = "test"
 MMs_test_config.data_augmentation = False
 MMs_test_config.image_shape = 224
